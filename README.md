@@ -1,2 +1,2 @@
 # privacy-policy
-SwiftBounty App Privacy Policy
+Desire Tree App Privacy Policy
